@@ -1,0 +1,58 @@
+.sq11,.sq12, .sq21, .sq22{
+  border-style: none solid solid none;
+  border-color:black;
+  height:100px;
+  width:100px;
+  border-width:5px;
+  mouse:cursor;
+}
+.head{
+  font-family:algerian;
+  font-size:50px;
+  color:black;
+  background-color:pink;
+  text-align:center;
+}
+.footer{
+  text-align:center;
+  position:relative;
+  margin-top:20px;
+  font-size:20px;
+  color:white;
+}
+#inp{
+  height:30px;
+  width:90px;
+  background-color:yellow;
+  font-weight:bold;
+  border:3px solid black;
+}
+.x{
+  background-image:url("http://res.cloudinary.com/sangy/image/upload/c_scale,h_90,q_99,w_90/v1501137654/x_azpivy.png");
+}
+.o{
+  background-image:url("http://res.cloudinary.com/sangy/image/upload/c_scale,h_90,q_100,w_90/v1501137954/o_ueq6mw.png");
+}
+.sq13,.sq23{
+  border-style:  none none solid none;
+  border-color:black;
+  height:100px;
+  width:100px;
+  border-width:5px;
+  mouse:cursor;
+}
+.sq31 ,.sq32{
+  border-style:  none solid none none;
+  border-color:black;
+  height:100px;
+  width:100px;
+  border-width:5px;
+  mouse:cursor;
+}
+.board{
+  position:relative;
+  margin-top:70px;
+}
+body{
+  background-color:#ee0079;
+}
